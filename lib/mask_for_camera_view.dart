@@ -16,7 +16,8 @@ import 'package:mask_for_camera_view/mask_for_camera_view_result.dart';
 
 export 'package:camera/camera.dart' show CameraDescription;
 
-// ignore: must_be_immutable
+// ignore: must_be_immutable 
+// latest code
 class MaskForCameraView extends StatefulWidget {
   const MaskForCameraView({
     Key? key,
